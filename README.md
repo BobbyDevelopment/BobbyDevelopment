@@ -1,5 +1,5 @@
 - 👋 @BobbyDevelopment
-- 👀 Udvikler ESX - Lua 
+- 👀 Udvikler ESX - Lua
 - 📫 Kontakt mig over Discord - bobby.#7765
 
 <!---
