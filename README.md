@@ -1,6 +1,5 @@
 - 👋 @BobbyDevelopment
-- 👀 Udvikler ESX - Lua & HTLM
-- 📫 Kontakt mig over Discord - bobby.#7765
+- 👀 Udvikler ESX - Lua, JavaScript, CSS & HTLM
 
 <!---
 BobbyDevelopment/BobbyDevelopment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
